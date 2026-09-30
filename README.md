@@ -15,8 +15,7 @@ The experiment produced a mixed result:
 | ARPU | 25.41 | 26.75 | **+5.26% observed** |
 | ARPPU | 2,664.00 | 3,003.66 | **+12.75% observed** |
 | Conversion p-value | — | **0.0350** | Statistically significant |
-| ARPU Welch p-value | — | **~0.533** | Not statistically significant |
-| Mann–Whitney p-value | — | **~0.063** | Not significant at 5% |
+
 
 ### Business Decision
 
